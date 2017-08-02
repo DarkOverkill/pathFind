@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+.container {
+	/*width: 550px;
+	height: 550px;*/
+	border: 1px Solid;
+}
+
+.block {
+	width: 48px;
+	height: 48px;
+	border: 1px Solid;
+	float: left;
+}
